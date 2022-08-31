@@ -19,3 +19,5 @@ https://supercollider.github.io/
 for visuals https://gibber.cc/
 
 where you can ear the music you do : https://www.twitch.tv/cookiecollectivemedia
+
+https://www.facebook.com/groups/3179573722358288
