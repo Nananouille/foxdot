@@ -12,9 +12,12 @@ https://supercollider.github.io/
 
 -https://github.com/munshkr/flok#connect-repls-to-flok
 
-*server name style :
+*server name   :
 
--https://flok.clic.cf/s/passive-coffee-mse-MTk4NmZj?layout=tidal
+-https://flok.clic.cf/s/nananouille-collab-mse-MTk5NmZj?layout=foxdot
+
+flok-repl -H wss://flok.clic.cf -s nananouille-collab-mse-MTk5NmZj -t foxdot -N vjblind
+
 
 for visuals https://gibber.cc/
 
