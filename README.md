@@ -25,6 +25,9 @@ where you can ear the music you do : https://www.twitch.tv/cookiecollectivemedia
 
 https://www.facebook.com/groups/3179573722358288
 
+emacs for foxdot 
+https://gist.github.com/ekg/25e53404933ffd6e8ba68780e7723460
+
 # Veda & Bonzomatic
 
 https://thebookofshaders.com/?lan=uk
